@@ -1,0 +1,21 @@
+
+[
+    { "id": "placa1","nombre": "modelo traverlite", "precio": 5999 ,"espesor": "1cm","medidas": "30x60cm","cubre": "2,16"},
+
+    { "id": "placa2","nombre": "modelo mar del plata", "precio": 7559 , "espesor": "1cm", "medidas": "30x60cm","cubre": "2,16"},
+
+    { "id": "placa3", "nombre": "modelo travertino", "precio": 5999, "espesor": "1cm","medidas": "30x60cm","cubre": "2,16"},
+
+    { "id": "placa4", "nombre": "modelo panal","precio": 7777, "espesor": "1cm","medidas": "30x60cm","cubre": "2,16"},
+
+    { "id": "placa5","nombre": "modelo marmol", "precio": 7559 , "espesor": "1cm","medidas": "30x60cm","cubre": "2,16"},
+
+    { "id": "placa6","nombre": "modelo ladrillo vista","precio": 11199, "espesor": "1cm","medidas": "30x60cm","cubre": "2,16"},
+
+    { "id": "placa7", "nombre": "modelo laja","precio": 7489, "espesor": "1cm","medidas": "30x60cm","cubre": "2,16"},
+
+    { "id": "placa8","nombre": "modelo sol","precio": 6999, "espesor": "1cm","medidas": "30x60cm","cubre": "2,16"},
+
+    { "id": "placa9", "nombre": "modelo flor","precio": 7489, "espesor": "1cm","medidas": "30x60cm", "cubre": "2,16"}
+
+]   
