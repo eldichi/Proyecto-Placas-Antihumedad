@@ -78,14 +78,6 @@
     margin: 0 auto;
   }
 
-
-   .header {
-    display: flex;
-    align-items: center;
-   
-   }
-
-
   .menu {
     top: 0;
     left: 0;
@@ -427,9 +419,7 @@ footer {
 /*dispositivos pequeños*/
 @media screen and (min-width:0px) and (max-width:991px) 
 
-{.menu{
-   padding: 5px;
-  }
+{  
 
   .menu label {
     display: initial;
@@ -440,6 +430,7 @@ footer {
   .logo{
     display: none;
   }
+
 
   .header {
     min-height: 0vh;
@@ -452,10 +443,12 @@ footer {
 
  .header-txt{
   text-align: center;
+  
+  
  }
 
 .header-txt h1{
-    font-size: 90px;
+    font-size: 60px;
     line-height: 1;
     color: #838586;
   }
