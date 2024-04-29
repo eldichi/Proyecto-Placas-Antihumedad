@@ -447,10 +447,15 @@ footer {
   
  }
 
+ .header-txt p{
+  color: #9ec5d1e0;
+  text-transform: uppercase;
+ }
+
 .header-txt h1{
     font-size: 60px;
     line-height: 1;
-    color: #838586;
+    color: #52c09fe6;
     margin-top: 10px;
   }
 
@@ -506,14 +511,22 @@ footer {
 
   .about-txt p {
     font-size: 16px;
-    color: #b3dab9;
+    color: #ffffffb0;
     text-align:left;
   }
   
+  h2{
+    color:#baefe0c8 ;
+  }
 
 
   .products {
     padding: 30px;
+  }
+
+  .product-txt p{
+    color:#b6f6cc ;
+
   }
 
   .product-container {
