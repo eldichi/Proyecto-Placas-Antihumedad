@@ -493,6 +493,7 @@ footer {
   left: 0;
 }
 
+
   .about {
     padding: 30px;
     flex-direction: column;
@@ -502,6 +503,13 @@ footer {
   .about-txt {
     margin-top:20px;
   }
+
+  p {
+    font-size: 16px;
+    color: #b3dab9;
+    text-align:left;
+  }
+  
 
 
   .products {
