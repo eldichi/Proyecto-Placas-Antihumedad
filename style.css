@@ -448,7 +448,7 @@ footer {
  }
 
  .header-txt p{
-  color: #b5cbd2e0;
+  color: rgb(255, 255, 255);
   text-transform: uppercase;
  }
 
@@ -511,7 +511,7 @@ footer {
 
   .about-txt p {
     font-size: 16px;
-    color: #ffffffb0;
+    color: #ffffff;
     text-align:left;
   }
   
